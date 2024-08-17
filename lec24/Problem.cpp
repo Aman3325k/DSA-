@@ -1,0 +1,1 @@
+//same as lec 23 problem sloved
