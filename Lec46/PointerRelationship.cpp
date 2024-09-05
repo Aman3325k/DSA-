@@ -7,7 +7,7 @@ int main()
 
     //print the address of first element or 0 index
     cout << arr << endl;
-    cout << arr + 0 << endl;f
+    cout << arr + 0 << endl;
     cout << &arr[0] << endl;
     cout << ptr << endl;
 
