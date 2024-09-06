@@ -29,5 +29,5 @@ int main()
 
     delete ptr;
     delete ptr2;
-    delete[] p;
+    delete[] p;q
 }
