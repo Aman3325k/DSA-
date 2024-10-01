@@ -1,0 +1,1 @@
+//Abstraction basically means we only need the answer , we donot want to know the behind the scene
