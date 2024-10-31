@@ -5,7 +5,7 @@ int main()
 {
     //File ko open karna
     ofstream fout;
-    fout.open("zoom.text"); //create kae dega fir open karega
+    fout.open("zoom.text"); //create kar dega fir open karega
 
     //Write kar sakta houn
     fout<<"Hello World";
